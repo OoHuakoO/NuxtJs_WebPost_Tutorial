@@ -1,0 +1,19 @@
+<template>
+  <div>
+    <h2>Display User Table</h2>
+    <table>
+      <tr>
+        <th>Name</th>
+      </tr>
+      <tr>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>b</td>
+      </tr>
+      <tr>
+        <td>c</td>
+      </tr>
+    </table>
+  </div>
+</template>
